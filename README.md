@@ -1,7 +1,6 @@
 # 🗂️ Beelc's Files Sorter v1.0.0
 
-Beelc's Files Sorter es un programa de automatización de archivos que resuelve el problema de tener un gran número de archivos en la carpeta de descargas, ahorrando tiempo buscando archivos de forma desordenada.
-
+Un programa de clasificación automática de archivos que resuelve el problema de tener un gran número de archivos en la carpeta de descargas, ahorrando tiempo buscando archivos de forma desordenada.
 ---
 
 ## 📸 Demo
@@ -23,7 +22,9 @@ Beelc's Files Sorter es un programa de automatización de archivos que resuelve 
 
 ## 📦 Instalación
 
-Descarga el `.exe` desde la sección de [Releases](https://github.com/Beelzegor/beelc-files-sorter/releases) y ejecútalo directamente. No necesitas tener Python instalado.
+Descarga el `.rar` desde la sección de [Releases](https://github.com/Beelzegor/beelc-files-sorter/releases) y extrae los archivos.
+Tendrás dos archivos, un .exe y un .json, estos dos archivos son obligatorios para el correcto funcionamiento del programa.
+No necesitas tener Python instalado.
 
 ---
 
