@@ -58,13 +58,23 @@ BFS/
 ## ⚙️ Extensiones soportadas
 
 | Extensión | Carpeta destino |
-|-----------|----------------|
-| `.pdf` | PDF |
-| `.docx` | Docs |
-| `.mp3` | Audio |
-| `.mp4` | Video |
-| `.png` | Images |
-| `.pptx` | Presentations |
-| `.txt` | Text |
-| `.exe` | Apps |
-| `.rar` | Compressed |
+| --------- | --------------- |
+| `.pdf`    | PDF             |
+| `.docx`   | Docs            |
+| `.rar`    | Compressed      |
+| `.zip`    | Compressed      |
+| `.xlsx`   | Spreadsheets    |
+| `.csv`    | Spreadsheets    |
+| `.mp3`    | Audio           |
+| `.mp4`    | Video           |
+| `.avi`    | Video           |
+| `.mkv`    | Video           |
+| `.mov`    | Video           |
+| `.jpeg`   | Images          |
+| `.png`    | Images          |
+| `.jpg`    | Images          |
+| `.gif`    | Images          |
+| `.pptx`   | Presentations   |
+| `.txt`    | Text            |
+| `.exe`    | Apps            |
+
