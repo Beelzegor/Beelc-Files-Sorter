@@ -9,7 +9,7 @@ Un programa de clasificación automática de archivos que resuelve el problema d
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - Python
 - CustomTkinter
@@ -20,7 +20,7 @@ Un programa de clasificación automática de archivos que resuelve el problema d
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 Descarga el `.rar` desde la sección de [Releases](https://github.com/Beelzegor/beelc-files-sorter/releases) y extrae los archivos.
 Tendrás dos archivos, un .exe y un .json, estos dos archivos son obligatorios para el correcto funcionamiento del programa.
@@ -28,7 +28,7 @@ No necesitas tener Python instalado.
 
 ---
 
-## 🚀 Uso
+## Uso
 
 1. Abre el programa
 2. Selecciona una carpeta destino con **Select Destination Folder**
@@ -39,7 +39,7 @@ Todo lo que llegue a tu carpeta de Descargas será clasificado automáticamente 
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 ```
 BFS/
 ├── src/
@@ -55,7 +55,7 @@ BFS/
 
 ---
 
-## ⚙️ Extensiones soportadas
+## Extensiones soportadas
 
 | Extensión | Carpeta destino |
 | --------- | --------------- |
